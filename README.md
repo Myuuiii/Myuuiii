@@ -1,1 +1,1 @@
-![GitHub ReadMe Banner]("./images/../../images/GitHub%20ReadMe%20Banner.png")
+![GitHub ReadMe Banner]("./images/GitHub%20ReadMe%20Banner.png")
