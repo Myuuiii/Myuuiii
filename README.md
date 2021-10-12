@@ -1,1 +1,1 @@
-![GitHub ReadMe Banner]("./images/GitHub%20ReadMe%20Banner.png")
+<img src="./images/GitHub%20ReadMe%20Banner.png" />
