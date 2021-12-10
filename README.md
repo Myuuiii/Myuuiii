@@ -1,3 +1,3 @@
-<img src="./img/Banner.png" />
+<img src="./img/Banner_VAR_1.png" />
 
 <!--  -->
