@@ -1,3 +1,3 @@
-<img src="./img/Banner_VAR_1.png" />
+<img src="http://cdn.mutedevs.nl/portfolio.png" />
 
 <!--  -->
