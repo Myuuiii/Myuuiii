@@ -15,3 +15,11 @@
 **E-Mail**: mute@mutedevs.nl
 
 **Discord**: Myuu#0001
+
+
+
+## Commissions?
+
+**Discord**: https://discord.gg/Z5fB7AtzRJ
+
+**Slack**: https://join.slack.com/t/myuuiiidevelopment/shared_invite/zt-1agtogygn-FDtczNhKTXAGrGN~s01CbA
