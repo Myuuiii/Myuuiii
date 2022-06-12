@@ -21,5 +21,3 @@
 ## Commissions?
 
 **Discord**: https://discord.gg/yBEGsVS9bG
-
-**Slack**: https://join.slack.com/t/myuuiiidevelopment/shared_invite/zt-1agtogygn-FDtczNhKTXAGrGN~s01CbA
