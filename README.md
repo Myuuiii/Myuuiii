@@ -1,4 +1,4 @@
-<img src="http://cdn.mutedevs.nl/portfolio_v2.png" />
+<img src="http://cdn.myuuiii.com/portfolio_v2.png" />
 
 <!--  -->
 
