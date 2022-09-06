@@ -8,7 +8,7 @@ My name is Myuu and I am a full-stack developer from the Netherlands.
 
 - 💻 Currently employed outside of the IT field
 - 🌱 I'm a student at [`Windesheim University of Applied Sciendes`] for my Computer Science bachelors degree
-- 🎓 I have graduated with a Application and Media development degree from [`Deltion College`] 
+- 🎓 I have graduated with an Application and Media development degree from [`Deltion College`] 
 
 #### 💬 Languages I know
 
