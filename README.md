@@ -1,23 +1,59 @@
-<img src="http://cdn.myuuiii.com/portfolio_v2.png" />
+<img src="https://cdn.myuuiii.com/portfolio_v2.png" />
 
 <!--  -->
 
-## Where you can find me
+### Hi there 🙋‍♀️
 
-**C# Packages**: [nuget.org](https://www.nuget.org/profiles/Myuuiii)
+My name is Myuu and I am a full-stack developer from the Netherlands.
 
-**Minecraft Plugins**: [SpigotMC](https://www.spigotmc.org/members/myuuiii.1574464/)
+- 💻 Currently employed outside of the IT field
+- 🌱 I'm a student at [`Windesheim University of Applied Sciendes`] for my Computer Science bachelors degree
+- 🎓 I have graduated with a Application and Media development degree from [`Deltion College`] 
+
+#### 💬 Languages I know
+
+- [`C#`]:  is my go to language for anything I get to make myself. I have used C# during my employment at [`Tercera`] and [`Suneco Interactive Professionals`]. It is also language that first introduced me to code
+
+- [`Java`]: is what I started learning after C# just for the sake of knowledge
+- [`TypeScript`]: I have experience working with TypeScript in Angular and React
+
+- [`Python`]: During my studies at [`Deltion College`] we had to use Python in combination with the Django framework to create a web application.
+
+- Others used during studies: [`PHP`], [`C++`]
+
+- Others used for personal projects: [`Kotlin`], [`Rust`]
+
+#### 🎁 Projects I work on
+
+I primarily work on one or two projects at a time. For now those are
+
+- [`Charmy`], a general purpose Discord bot for medium to large communities
+- [`Nekomimi`], a VRChat club for which I write custom C# scripts to be used in Unity
 
 
 
-## Where you can contact me
+[`Nekomimi`]: https://github.com/Myuuiii/Nekomimi
+[`Charmy`]: https://github.com/Myuuiii/Charmy
+[`Windesheim University of Applied Sciendes`]: https://www.windesheim.nl/
 
-**E-Mail**: mute@mutedevs.nl
+[`C#`]: https://docs.microsoft.com/en-us/dotnet/csharp/
 
-**Discord**: Myuu#0001
+[`Tercera`]: https://tercera.nl/
 
+[`Suneco Interactive Professionals`]: https://www.suneco.nl/
 
+[`Java`]: https://www.java.com/en/
 
-## Commissions?
+[`TypeScript`]: https://www.typescriptlang.org/
 
-**Discord**: https://discord.gg/yBEGsVS9bG
+[`Python`]: https://www.python.org/
+
+[`Deltion College`]: https://www.deltion.nl/
+
+[`PHP`]: https://www.php.net/
+
+[`C++`]: https://cplusplus.com/
+
+[`Kotlin`]: https://kotlinlang.org/
+
+[`Rust`]: https://www.rust-lang.org/
