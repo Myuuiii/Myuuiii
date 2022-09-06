@@ -12,12 +12,13 @@ My name is Myuu and I am a full-stack developer from the Netherlands.
 
 #### 💬 Languages I know
 
-- [`C#`]:  is my go to language for anything I get to make myself. I have used C# during my employment at [`Tercera`] and [`Suneco Interactive Professionals`]. It is also language that first introduced me to code
+- [`C#`]:  is favourite language.I have used C# during my employment at [`Tercera`] and [`Suneco Interactive Professionals`].
 
 - [`Java`]: is what I started learning after C# just for the sake of knowledge
+
 - [`TypeScript`]: I have experience working with TypeScript in Angular and React
 
-- [`Python`]: During my studies at [`Deltion College`] we had to use Python in combination with the Django framework to create a web application.
+- [`Python`]: Used during my studies at [`Deltion College`] 
 
 - Others used during studies: [`PHP`], [`C++`]
 
