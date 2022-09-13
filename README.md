@@ -7,7 +7,7 @@
 My name is Myuu and I am a full-stack developer from the Netherlands.
 
 - 💻 Currently employed outside of the IT field
-- 🌱 I'm a student at [`Windesheim University of Applied Sciendes`] for my Computer Science bachelors degree
+- 🌱 I'm a student at [`Windesheim University of Applied Sciences`] for my Computer Science bachelors degree
 - 🎓 I have graduated with an Application and Media development degree from [`Deltion College`] 
 
 #### 💬 Languages I know
@@ -35,7 +35,7 @@ I primarily work on one or two projects at a time. For now those are
 
 [`Nekomimi`]: https://github.com/Myuuiii/Nekomimi
 [`Charmy`]: https://github.com/Myuuiii/Charmy
-[`Windesheim University of Applied Sciendes`]: https://www.windesheim.nl/
+[`Windesheim University of Applied Sciences`]: https://www.windesheim.nl/
 
 [`C#`]: https://docs.microsoft.com/en-us/dotnet/csharp/
 
