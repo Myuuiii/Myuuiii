@@ -29,11 +29,11 @@ My name is Myuu and I am a full-stack developer from the Netherlands.
 I primarily work on one or two projects at a time. For now those are
 
 - [`Charmy`], a general purpose Discord bot for medium to large communities
-- [`Nekomimi`], a VRChat club for which I write custom C# scripts to be used in Unity
+- [`JishoNET`], a small C# package for retrieving Japanese word / kanji definitions
 
 
 
-[`Nekomimi`]: https://github.com/Myuuiii/Nekomimi
+[`JishoNET`]: https://github.com/Myuuiii/JishoNET
 [`Charmy`]: https://github.com/Myuuiii/Charmy
 [`Windesheim University of Applied Sciences`]: https://www.windesheim.nl/
 
