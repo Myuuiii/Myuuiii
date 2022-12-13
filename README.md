@@ -28,13 +28,12 @@ My name is Myuu and I am a full-stack developer from the Netherlands.
 
 I primarily work on one or two projects at a time. For now those are
 
-- [`Charmy`], a general purpose Discord bot for medium to large communities
+- [`AzurLaneAPI`], Unofficial API for retrieving information about Azur Lane's ships
 - [`JishoNET`], a small C# package for retrieving Japanese word / kanji definitions
 
 
-
+[`AzurLaneAPI`]: https://github.com/Myuuiii/AzurLaneAPI
 [`JishoNET`]: https://github.com/Myuuiii/JishoNET
-[`Charmy`]: https://github.com/Myuuiii/Charmy
 [`Windesheim University of Applied Sciences`]: https://www.windesheim.nl/
 
 [`C#`]: https://docs.microsoft.com/en-us/dotnet/csharp/
