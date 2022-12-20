@@ -26,12 +26,13 @@ My name is Myuu and I am a full-stack developer from the Netherlands.
 
 #### 🎁 Projects I work on
 
-I primarily work on one or two projects at a time. For now those are
-
+I primarily work on a few at a time. For now those are
+- [`DAWPresence`], Small application that shows information about your DAW and currently open project in your Discord Rich Presence
 - [`AzurLaneAPI`], Unofficial API for retrieving information about Azur Lane's ships
 - [`JishoNET`], a small C# package for retrieving Japanese word / kanji definitions
 
 
+[`DAWPresence`]: https://github.com/Myuuiii/DAWPresence
 [`AzurLaneAPI`]: https://github.com/Myuuiii/AzurLaneAPI
 [`JishoNET`]: https://github.com/Myuuiii/JishoNET
 [`Windesheim University of Applied Sciences`]: https://www.windesheim.nl/
