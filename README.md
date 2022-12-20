@@ -24,9 +24,9 @@ My name is Myuu and I am a full-stack developer from the Netherlands.
 
 - Others used for personal projects: [`Kotlin`], [`Rust`]
 
-#### 🎁 Projects I work on
+#### 🎁 Projects I am currently working on
 
-I primarily work on a few at a time. For now those are
+- KantoorOntwerper, .NET MAUI Application for creating office floor plans. My responsibilities are the WebAPI and the connection from the client to it 
 - [`DAWPresence`], Small application that shows information about your DAW and currently open project in your Discord Rich Presence
 - [`AzurLaneAPI`], Unofficial API for retrieving information about Azur Lane's ships
 - [`JishoNET`], a small C# package for retrieving Japanese word / kanji definitions
