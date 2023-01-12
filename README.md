@@ -1,4 +1,4 @@
-<img src="https://console.minio.myuuiii.com/myuuiii/GitHub/Header.png" />
+<img src="https://minio.myuuiii.com/myuuiii/GitHub/Header.png" />
 
 <!--  -->
 <div align="center">
