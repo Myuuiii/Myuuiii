@@ -9,9 +9,9 @@ My name is Myuu and I am a full-stack developer from the Netherlands.
 
 💻 Currently employed outside of the IT field
   
-🌱 I'm a student at [`Windesheim University of Applied Sciences`] for my Computer Science bachelors degree
+🌱 I'm a student at XXXXXX for my Computer Science bachelors degree
   
-🎓 I have graduated with an Application and Media development degree from Deltion College 
+🎓 I have graduated with an Application and Media development degree from XXXXXX
   
 </div>
 
@@ -38,4 +38,3 @@ My name is Myuu and I am a full-stack developer from the Netherlands.
 [`DAWPresence`]: https://github.com/Myuuiii/DAWPresence
 [`AzurLaneAPI`]: https://github.com/Myuuiii/AzurLaneAPI
 [`JishoNET`]: https://github.com/Myuuiii/JishoNET
-[`Windesheim University of Applied Sciences`]: https://www.windesheim.nl/
