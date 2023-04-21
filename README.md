@@ -7,7 +7,7 @@
 
 My name is Myuu and I am a full-stack developer from the Netherlands.
 
-💻 Currently employed outside of the IT field
+💻 Currently employed at XXXXX XXXXXX XXXXX
   
 🌱 I'm a student at XXXXXX for my Computer Science bachelors degree
   
