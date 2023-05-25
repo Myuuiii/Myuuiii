@@ -17,12 +17,12 @@ My name is Myuu and I am a full-stack developer from the Netherlands.
 
 <div align="center">
 <h2>💬 What I know</h2>
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,java,ts,python,php,cpp,html,sass,bash,discord,bots,git,github,latex,md,raspberrypi,redis,regex,unity&perline=7" alt=""/>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,java,ts,python,php,cpp,html,sass,bash,discord,bots,git,github,latex,md,raspberrypi,redis,regex,unity,postman,blender,angular,pytorch&perline=7" alt=""/>
 </div>
 
 <div align="center">
 <h2>📚 Actively Learning</h2>
-    <img src="https://skillicons.dev/icons?i=angular,graphql,kubernetes,kotlin,rust" alt=""/>
+    <img src="https://skillicons.dev/icons?i=graphql,kubernetes,kotlin,rust" alt=""/>
 </div>
 
 <div align="center">
