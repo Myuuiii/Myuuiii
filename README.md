@@ -32,9 +32,8 @@ My name is Myuu and I am a full-stack developer from the Netherlands.
   <h2>🎁 Projects I am currently working on</h2>
 </div>
 
+> Currently, I'm hard at work at a startup. I don't have a lot of time to work on these
 
-- **Sieval Intern**: Angular Single Page Application and .NET REST API for managing reservations for workspaces.
-- **KantoorOntwerper**: .NET MAUI Application for creating office floor plans. My responsibilities are the WebAPI and the connection from the client to it 
 - **DAWPresence**: Small application that shows information about your DAW and currently open project in your Discord Rich Presence
 - **AzurLaneAPI**: Unofficial API for retrieving information about Azur Lane's ships
 - **JishoNET**: a small C# package for retrieving Japanese word / kanji definitions
