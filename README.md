@@ -6,8 +6,6 @@
 
 <img src="https://minio.myuuiii.com/myuuiii/GitHub/d59454d0-8ece-41e3-a464-7c52ee58806f.png" />
 
-# I'm currently employed so have little time to work on my projects, my apologies for responding late
-
 ### Hi there 🙋‍♀️
 
 My name is Myuu and I am a full-stack developer from the Netherlands.
