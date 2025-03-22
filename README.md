@@ -1,4 +1,4 @@
-<img src="https://cdn.myuu.moe/wave_myuu.png" />
+<img src="https://cdn.myuu.moe/banner-v1.png" />
 
 # 🐈 I'm Maya
 
