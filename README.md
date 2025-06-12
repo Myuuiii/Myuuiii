@@ -8,7 +8,7 @@
 - 💌 Twitter @MoeMyuuiii - [link](https://x.com/MoeMyuuiii)
 
 ## 💬 What I know
-<img src="https://skillicons.dev/icons?i=cs,dotnet,docker,java,ts,python,html,sass,bash,bots,git,github,latex,md,raspberrypi,regex,unity,postman,blender,angular,linux&perline=8" alt=""/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,docker,jenkins,java,ts,html,sass,bash,bots,git,github,latex,md,regex,unity,blender,linux&perline=8" alt=""/>
 
 ## 📚 Actively Learning 
 <img src="https://skillicons.dev/icons?i=kubernetes,redis,azure" alt=""/>
