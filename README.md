@@ -16,6 +16,6 @@
 
 ## 🎁 Projects I am currently working on
 
-- **EmpireWandPlus**: Revised version of an old minecraft plugin used in a roleplay group. 
-- **DAWPresence**: Small application that shows information about your DAW and currently open project in your Discord Rich Presence
 - **lpd-tools**: A set of custom made tools for a roleplay group called the Local Police Department.
+- **DAWPresence**: Small application that shows information about your DAW and currently open project in your Discord Rich Presence
+- **EmpireWandPlus**: Revised version of an old minecraft plugin used in a roleplay group. 
