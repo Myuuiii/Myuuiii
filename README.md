@@ -1,6 +1,4 @@
-<img src="https://cdn.myuu.moe/banner-v1.png" />
-
-# 🐈 I'm Myuu
+<img src="https://cdn.myuu.moe/banner-v2.jpg" />
 
 ---
 
