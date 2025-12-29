@@ -1,4 +1,4 @@
-<img src="https://cdn.myuu.moe/banner-v3.jpg" />
+<img src="https://cdn.myuu.moe/banner-v4.jpg" />
 
 ---
 
